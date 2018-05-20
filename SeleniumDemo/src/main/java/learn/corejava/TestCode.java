@@ -11,14 +11,7 @@ public class TestCode {
 		String arr[]=temp.split(" ");
 		
 		//System.out.println(arr[1]);
-		
-		int i=0;
-		while(i<arr.length) {
-			System.out.println(arr[i]);
-			i+=1;
-			//i++;
-			//i=i+1;
-		}
+	
 
 	}
 
