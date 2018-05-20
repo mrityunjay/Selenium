@@ -22,6 +22,7 @@ public class TestCode {
 		
 		for(int ij=0;ij<20;ij++) {
 			System.out.println("Hello");
+			System.out.println(ij);
 		}
 
 	}
